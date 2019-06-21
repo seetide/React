@@ -1,0 +1,7 @@
+1 enter the target folder
+2 git init
+3 git remote add origin https://.....
+4 git remote -v
+5 add .                                 // add the whole folder
+6 git commit -m "first commit"          // add to stage
+7 git push origin master                // finally upload
